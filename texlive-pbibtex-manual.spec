@@ -1,6 +1,6 @@
 Name:		texlive-pbibtex-manual
-Version:	62913
-Release:	2
+Version:	66181
+Release:	1
 Summary:	Documentation files for (u)pBibTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pbibtex-manual
