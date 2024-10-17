@@ -3,7 +3,7 @@ Version:	66181
 Release:	1
 Summary:	Documentation files for (u)pBibTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pbibtex-manual
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pbibtex-manual
 License:	bsd3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pbibtex-manual.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pbibtex-manual.doc.r%{version}.tar.xz
